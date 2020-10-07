@@ -1,2 +1,2 @@
 Item, Description, Checked, Checked Date, Checked by
-Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2, bcrypt or scrypt, MD-5 and SHA-3",,,
+Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2 or bcrypt",,,
