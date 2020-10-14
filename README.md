@@ -9,5 +9,5 @@ Checklist for Application Developers to prevent password breaches or leakages. T
 - Fork it
 - Add Row in CSV
 - Check the preview 
-- Rase PR against master branch of this repo
+- Raise PR against master branch of this repo
 - Wait for merge
