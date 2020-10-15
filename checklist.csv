@@ -1,2 +1,3 @@
 Item, Description, Checked, Checked Date, Checked by
 Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2 or bcrypt",,,
+Forced periodic password resets, "It’s always a good plan to provider option for your users periodic password change",,,
