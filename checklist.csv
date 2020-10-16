@@ -1,3 +1,4 @@
 Item, Description, Checked, Checked Date, Checked by
 Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2 or bcrypt",,,
 Password Expiration, "Expire your user's password after certain time period",,,
+Strong Password Policy, "Vased on your business requirement set best password policy, such as password must have capital letters, small letters, symbols, numbers, min password length etc.",,,
