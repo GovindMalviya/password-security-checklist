@@ -5,3 +5,4 @@ Limit the number of password attempts from any single IP address, "One of the be
 Password Expiration, "Expire your user's password after certain time period",,,
 Strong Password Policy, "Vased on your business requirement set best password policy, such as password must have capital letters, small letters, symbols, numbers, min password length etc.",,,
 Common Password prevention, "Restrict to set common password, see list of command passwords https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt",,,
+Don’t add personal information in your passwords, "Don't use personal information like your name, surname, birthday, address or phone number in password",,,
