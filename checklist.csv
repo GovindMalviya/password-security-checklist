@@ -1,3 +1,4 @@
 Item, Description, Checked, Checked Date, Checked by
 Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2 or bcrypt",,,
 Forced periodic password resets, "It’s always a good plan to provider option for your users periodic password change",,,
+Limit the number of password attempts from any single IP address, "One of the best ways to defend against this type of attack is limiting the number of password attempts that any single IP address can make within a certain time frame",,,
