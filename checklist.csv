@@ -2,3 +2,6 @@ Item, Description, Checked, Checked Date, Checked by
 Use strong Password Hashing Algo, "Passwords should be hashed with either Argon2, PBKDF2 or bcrypt",,,
 Forced periodic password resets, "It’s always a good plan to provider option for your users periodic password change",,,
 Limit the number of password attempts from any single IP address, "One of the best ways to defend against this type of attack is limiting the number of password attempts that any single IP address can make within a certain time frame",,,
+Password Expiration, "Expire your user's password after certain time period",,,
+Strong Password Policy, "Vased on your business requirement set best password policy, such as password must have capital letters, small letters, symbols, numbers, min password length etc.",,,
+Common Password prevention, "Restrict to set common password, see list of command passwords https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt",,,
